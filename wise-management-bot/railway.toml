@@ -1,0 +1,5 @@
+[build]
+buildCommand = "mvn package"
+
+[start]
+startCommand = "java -jar target/wise-management-bot-1.0-SNAPSHOT.jar"
